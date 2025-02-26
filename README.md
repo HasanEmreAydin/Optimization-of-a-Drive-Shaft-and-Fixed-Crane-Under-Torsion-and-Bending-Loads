@@ -1,0 +1,1 @@
+# Optimization-of-a-Drive-Shaft-and-Fixed-Crane-Under-Torsion-and-Bending-Loads
